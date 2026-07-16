@@ -36,23 +36,23 @@ Retrieval & Generation: app.py captures user queries, performs a semantic search
 
 Clone the repository:
 
-git clone https://github.com/Abhinav-Dhananjaya/academic-rag-assistant.git
+    git clone https://github.com/Abhinav-Dhananjaya/academic-rag-assistant.git
 
-cd academic-rag-assistant
+    cd academic-rag-assistant
 
 Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Ingest your documents:
 
-Place your PDFs in the data/ folder and run:
+    Place your PDFs in the data/ folder and run:
 
-python ingest.py
+    python ingest.py
 
 Launch the app:
 
-streamlit run app.py
+    streamlit run app.py
 
 🎓 Academic Context
 
