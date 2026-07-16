@@ -1,0 +1,6 @@
+venv/
+local_qdrant/
+__pycache__/
+.ipynb_checkpoints/
+new_qdrant_db/
+data/
