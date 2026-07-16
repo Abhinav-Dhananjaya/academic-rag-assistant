@@ -14,6 +14,7 @@ Efficient Local Database: Implemented using Qdrant for high-performance vector s
 Streamlined Pipeline: Features a custom ingest.py script for automated document chunking and embedding generation.
  
 
+<img width="360" height="516" alt="academic-rag-bot-output" src="https://github.com/user-attachments/assets/18260533-7af5-409b-8125-e34f30002ade" />
 
 
 
